@@ -1,3 +1,3 @@
 # WDL Workflow basics
 
-Check `justfile` for some basic commands.
+Check [`justfile`](./justfile) for some basic commands.
